@@ -1,0 +1,15 @@
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\bin\Debug\net6.0\KontenVerwaltung.exe
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\bin\Debug\net6.0\KontenVerwaltung.deps.json
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\bin\Debug\net6.0\KontenVerwaltung.runtimeconfig.json
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\bin\Debug\net6.0\KontenVerwaltung.dll
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\bin\Debug\net6.0\KontenVerwaltung.pdb
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\obj\Debug\net6.0\KontenVerwaltung.csproj.AssemblyReference.cache
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\obj\Debug\net6.0\KontenVerwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\obj\Debug\net6.0\KontenVerwaltung.AssemblyInfoInputs.cache
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\obj\Debug\net6.0\KontenVerwaltung.AssemblyInfo.cs
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\obj\Debug\net6.0\KontenVerwaltung.csproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\obj\Debug\net6.0\KontenVerwaltung.dll
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\obj\Debug\net6.0\refint\KontenVerwaltung.dll
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\obj\Debug\net6.0\KontenVerwaltung.pdb
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\obj\Debug\net6.0\KontenVerwaltung.genruntimeconfig.cache
+C:\Users\Lars\source\repos\pp043\Uebung2\KontenVerwaltung\KontenVerwaltung\obj\Debug\net6.0\ref\KontenVerwaltung.dll

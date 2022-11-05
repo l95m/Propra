@@ -1,0 +1,15 @@
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\bin\Debug\net6.0\BewegungImRaum.exe
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\bin\Debug\net6.0\BewegungImRaum.deps.json
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\bin\Debug\net6.0\BewegungImRaum.runtimeconfig.json
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\bin\Debug\net6.0\BewegungImRaum.dll
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\bin\Debug\net6.0\BewegungImRaum.pdb
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\obj\Debug\net6.0\BewegungImRaum.csproj.AssemblyReference.cache
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\obj\Debug\net6.0\BewegungImRaum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\obj\Debug\net6.0\BewegungImRaum.AssemblyInfoInputs.cache
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\obj\Debug\net6.0\BewegungImRaum.AssemblyInfo.cs
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\obj\Debug\net6.0\BewegungImRaum.csproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\obj\Debug\net6.0\BewegungImRaum.dll
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\obj\Debug\net6.0\refint\BewegungImRaum.dll
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\obj\Debug\net6.0\BewegungImRaum.pdb
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\obj\Debug\net6.0\BewegungImRaum.genruntimeconfig.cache
+C:\Users\Lars\source\repos\pp043\Uebung3\BewegungImRaum\BewegungImRaum\obj\Debug\net6.0\ref\BewegungImRaum.dll

@@ -1,0 +1,15 @@
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\bin\Debug\net6.0\TabellenAuslesen.exe
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\bin\Debug\net6.0\TabellenAuslesen.deps.json
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\bin\Debug\net6.0\TabellenAuslesen.runtimeconfig.json
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\bin\Debug\net6.0\TabellenAuslesen.dll
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\bin\Debug\net6.0\TabellenAuslesen.pdb
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\obj\Debug\net6.0\TabellenAuslesen.csproj.AssemblyReference.cache
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\obj\Debug\net6.0\TabellenAuslesen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\obj\Debug\net6.0\TabellenAuslesen.AssemblyInfoInputs.cache
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\obj\Debug\net6.0\TabellenAuslesen.AssemblyInfo.cs
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\obj\Debug\net6.0\TabellenAuslesen.csproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\obj\Debug\net6.0\TabellenAuslesen.dll
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\obj\Debug\net6.0\refint\TabellenAuslesen.dll
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\obj\Debug\net6.0\TabellenAuslesen.pdb
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\obj\Debug\net6.0\TabellenAuslesen.genruntimeconfig.cache
+C:\Users\Lars\source\repos\pp043\Uebung3\TabellenAuslesen\TabellenAuslesen\obj\Debug\net6.0\ref\TabellenAuslesen.dll
