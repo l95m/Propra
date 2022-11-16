@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lars\\source\\repos\\pp043\\Uebung3\\TabellenAuslesen\\TabellenAuslesen\\TabellenAuslesen.csproj": {}
+    "C:\\Users\\Lars\\source\\repos\\GitHub\\Propra\\Uebung3\\TabellenAuslesen\\TabellenAuslesen\\TabellenAuslesen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lars\\source\\repos\\pp043\\Uebung3\\TabellenAuslesen\\TabellenAuslesen\\TabellenAuslesen.csproj": {
+    "C:\\Users\\Lars\\source\\repos\\GitHub\\Propra\\Uebung3\\TabellenAuslesen\\TabellenAuslesen\\TabellenAuslesen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lars\\source\\repos\\pp043\\Uebung3\\TabellenAuslesen\\TabellenAuslesen\\TabellenAuslesen.csproj",
+        "projectUniqueName": "C:\\Users\\Lars\\source\\repos\\GitHub\\Propra\\Uebung3\\TabellenAuslesen\\TabellenAuslesen\\TabellenAuslesen.csproj",
         "projectName": "TabellenAuslesen",
-        "projectPath": "C:\\Users\\Lars\\source\\repos\\pp043\\Uebung3\\TabellenAuslesen\\TabellenAuslesen\\TabellenAuslesen.csproj",
+        "projectPath": "C:\\Users\\Lars\\source\\repos\\GitHub\\Propra\\Uebung3\\TabellenAuslesen\\TabellenAuslesen\\TabellenAuslesen.csproj",
         "packagesPath": "C:\\Users\\Lars\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lars\\source\\repos\\pp043\\Uebung3\\TabellenAuslesen\\TabellenAuslesen\\obj\\",
+        "outputPath": "C:\\Users\\Lars\\source\\repos\\GitHub\\Propra\\Uebung3\\TabellenAuslesen\\TabellenAuslesen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\VS IDE\\ToolsSDK\\NuGetPackages"

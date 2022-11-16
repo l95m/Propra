@@ -7,7 +7,6 @@ public class TabellenAuslesen
     {
         Console.WriteLine("Wieviele Punkte werden zum bestehen benötigt?");
         int Punktzahl = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine(Punktzahl);                                          //Kontrolle
 
 
         TabellenAuslesen t = new TabellenAuslesen();
@@ -38,7 +37,7 @@ public class TabellenAuslesen
 
             Console.WriteLine("Bestanden: ");
 
-            for (int i = 0; i  <= Punkte.Count; i++)
+            for (int i = 0; i  < Punkte.Count; i++)
             {
                 if (Punkte[i] >= Punktzahl)
                 {

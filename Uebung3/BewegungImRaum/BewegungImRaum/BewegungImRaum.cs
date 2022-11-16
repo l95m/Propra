@@ -18,57 +18,61 @@ public class BewegungImRaum
         b.Bewegen();
     }
 
-    public int x = 0, y = 0;
 
     public bool Bewegen()
     {
-        Console.WriteLine("Enter directions: ");                        //input
+        Console.WriteLine("Enter directions: ");                            //input
         string input = Console.ReadLine();
-        string[] arr = input.Split('\u002C');                           //String Array für einfachere weitere Arbeit
+        char[] arr = input.ToCharArray();
 
 
-        for (int i = 0; i < arr.Length; i++)                            //Koordinaten berechnen
+        int s = 0, n = 0, w = 0, o = 0, b = 0;                            // BS COUNTER B
+
+        for (int i = 0; i < arr.Length; i++)                              //Koordinaten berechnen
         {
-            if (arr[i].Equals("S"))
+            if ((arr[i].ToString()).Equals("S"))
             {
-                x -= 1;
+                s += 1;
             }
 
-            else if (arr[i].Equals("N"))
+            else if ((arr[i].ToString()).Equals("N"))
             {
-                x += 1;
+                n += 1;
             }
 
-            else if (arr[i].Equals("O"))
+            else if ((arr[i].ToString()).Equals("O"))
             {
-                y += 1;
+                o += 1;
             }
 
-            else if (arr[i].Equals("W"))
+            else if ((arr[i].ToString()).Equals("W"))
             {
-                y -= 1;
+                w += 1;
             }
-            
+
             else
             {
-                Console.WriteLine("Your input should be in capital letters! (e.g 'SOWNOS') Try again!");
+                Console.WriteLine("ONLY 'S', 'N', 'O', 'W'!");
+                b += 1;
+                break;
             }
         }
 
-        if (x == 0 && y == 0)                                           //Koordinaten vergleichen
+        if (s == n && o == w && b == 0)                                           //Koordinaten vergleichen
         {
             Console.WriteLine("You are where you started");
             return true;
         }
 
-        else
+        else if (b == 0)
         {
             Console.WriteLine("You are lost");
             return false;
         }
+
+        else
+        {
+            return false;
+        }
     }
 }
-
-/* Andere Ideen:
- * Buchstaben zählen -> Anzahl S = Anzahl N && Anzahl W = Anzahl O
- * 

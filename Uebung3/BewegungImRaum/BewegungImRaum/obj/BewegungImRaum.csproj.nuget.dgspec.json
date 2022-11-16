@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lars\\source\\repos\\pp043\\Uebung3\\BewegungImRaum\\BewegungImRaum\\BewegungImRaum.csproj": {}
+    "C:\\Users\\Lars\\source\\repos\\GitHub\\Propra\\Uebung3\\BewegungImRaum\\BewegungImRaum\\BewegungImRaum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lars\\source\\repos\\pp043\\Uebung3\\BewegungImRaum\\BewegungImRaum\\BewegungImRaum.csproj": {
+    "C:\\Users\\Lars\\source\\repos\\GitHub\\Propra\\Uebung3\\BewegungImRaum\\BewegungImRaum\\BewegungImRaum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lars\\source\\repos\\pp043\\Uebung3\\BewegungImRaum\\BewegungImRaum\\BewegungImRaum.csproj",
+        "projectUniqueName": "C:\\Users\\Lars\\source\\repos\\GitHub\\Propra\\Uebung3\\BewegungImRaum\\BewegungImRaum\\BewegungImRaum.csproj",
         "projectName": "BewegungImRaum",
-        "projectPath": "C:\\Users\\Lars\\source\\repos\\pp043\\Uebung3\\BewegungImRaum\\BewegungImRaum\\BewegungImRaum.csproj",
+        "projectPath": "C:\\Users\\Lars\\source\\repos\\GitHub\\Propra\\Uebung3\\BewegungImRaum\\BewegungImRaum\\BewegungImRaum.csproj",
         "packagesPath": "C:\\Users\\Lars\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lars\\source\\repos\\pp043\\Uebung3\\BewegungImRaum\\BewegungImRaum\\obj\\",
+        "outputPath": "C:\\Users\\Lars\\source\\repos\\GitHub\\Propra\\Uebung3\\BewegungImRaum\\BewegungImRaum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\VS IDE\\ToolsSDK\\NuGetPackages"
