@@ -1,4 +1,9 @@
-﻿using System.IO;
+/* Erstellen Sie ein C# Programm welches eine CSV-Datei (Klausur.csv) einliest und nur Studenten in der
+Konsole ausgibt, welche die Klausur bestanden haben. Hierzu soll der Nutzer angeben, ab wie vielen
+Punkten die Klausur als bestanden gilt.
+*/
+
+using System.IO;
 
 public class TabellenAuslesen
 {
